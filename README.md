@@ -13,4 +13,13 @@ A comprehensive system analysis and design project for "Rewear," an online secon
 * **UI/UX Prototyping:** Collaborated on UI/UX design in Figma to visualize application interfaces and map out user requirements effectively.
 * **Storefront Management:** Designed the layout and managed the storefront on Google Sites, handling content organization and product data entry. 
 
-🌐 **[คลิกเพื่อดูหน้าเว็บไซต์ Rewear (Google Sites) ที่นี่](https://sites.google.com/msu.ac.th/rewear/home))**
+---
+
+## 🔗 Project Links
+🌐 **[Live Website (Google Sites)]([ใส่ลิงก์-Google-Sites-ของคุณตรงนี้](https://sites.google.com/msu.ac.th/rewear/home))**
+📱 **[UI/UX Prototype (Figma)]([ใส่ลิงก์-Figma-ของคุณตรงนี้](https://www.figma.com/proto/pVob1MVP8to2jaS5xokD9r/Rewear?node-id=0-1&t=BE4hpAP3ukKJJyyw-1))**
+
+---
+
+## 🖼️ System & UI Preview
+(<img width="1620" height="1018" alt="rewear" src="https://github.com/user-attachments/assets/7471dc01-1df8-4cbf-a936-a08380004838" />)
