@@ -11,4 +11,6 @@ A comprehensive system analysis and design project for "Rewear," an online secon
 ## Key Features & Contributions
 * **System Architecture:** Defined the platform's core features and created detailed system Flowcharts, Data Flow Diagrams (DFD), and Process Descriptions to structure operational logic.
 * **UI/UX Prototyping:** Collaborated on UI/UX design in Figma to visualize application interfaces and map out user requirements effectively.
-* **Storefront Management:** Designed the layout and managed the storefront on Google Sites, handling content organization and product data entry.
+* **Storefront Management:** Designed the layout and managed the storefront on Google Sites, handling content organization and product data entry. 
+
+🌐 **[คลิกเพื่อดูหน้าเว็บไซต์ Rewear (Google Sites) ที่นี่](https://sites.google.com/msu.ac.th/rewear/home))**
