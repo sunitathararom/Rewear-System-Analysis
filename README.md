@@ -16,8 +16,8 @@ A comprehensive system analysis and design project for "Rewear," an online secon
 ---
 
 ## 🔗 Project Links
-🌐 **[Live Website (Google Sites)]([ใส่ลิงก์-Google-Sites-ของคุณตรงนี้](https://sites.google.com/msu.ac.th/rewear/home))**
-📱 **[UI/UX Prototype (Figma)]([ใส่ลิงก์-Figma-ของคุณตรงนี้](https://www.figma.com/proto/pVob1MVP8to2jaS5xokD9r/Rewear?node-id=0-1&t=BE4hpAP3ukKJJyyw-1))**
+🌐 **[Live Website (Google Sites)](https://sites.google.com/msu.ac.th/rewear/home)**
+📱 **[UI/UX Prototype (Figma)](https://www.figma.com/proto/pVob1MVP8to2jaS5xokD9r/Rewear?node-id=0-1&t=BE4hpAP3ukKJJyyw-1)**
 
 ---
 
