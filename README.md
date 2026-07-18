@@ -22,4 +22,4 @@ A comprehensive system analysis and design project for "Rewear," an online secon
 ---
 
 ## 🖼️ System & UI Preview
-(<img width="1620" height="1018" alt="rewear" src="https://github.com/user-attachments/assets/7471dc01-1df8-4cbf-a936-a08380004838" />)
+<img width="1620" height="1018" alt="rewear" src="https://github.com/user-attachments/assets/7471dc01-1df8-4cbf-a936-a08380004838" />
